@@ -7,6 +7,7 @@ type "chmod +x path/to/your/gui.py" hit enter, this is optional if your a profes
 type "chmod +x path/to/your/debugger.py" hit enter, if you dont do this it will be useless.
 type "chmod +x path/to/your/ShipFramework.sh" hit enter, the framework is required!
 type "pip install nicegui" if you do not have the GUI files.
+Start the debugger with "python3 path/to/your/gui.py"
 # How do i use DebugShip?
 If DebugShip doesnt open go into a python venv and type pip install nicegui,
 # What to open?
