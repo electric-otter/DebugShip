@@ -1,3 +1,10 @@
 from nicegui import ui
+
+# Create a label
 ui.label("DebugShip")
-ui.button('Debug'), on_click=lambda: ui.notify('Debugging...'), open("ShipFramework.sh")
+
+# Create a button with an action
+ui.button('Debug', on_click=lambda: [ui.notify('Debugging...'), open("ShipFramework.sh")])
+
+# Start the NiceGUI application
+ui.run()
