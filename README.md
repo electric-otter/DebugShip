@@ -1,1 +1,1 @@
-![Logo]https://github.com/electric-otter/Images/blob/main/debugship.png
+![Logo](https://raw.githubusercontent.com/electric-otter/Images/refs/heads/main/debugship.png)
