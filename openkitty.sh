@@ -1,0 +1,2 @@
+kitty $LOCATION
+LOCATION = "~/DebugShip"
