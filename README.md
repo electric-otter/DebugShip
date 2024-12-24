@@ -5,8 +5,6 @@ No, you need the open source licensing according to GNU. read the LICENSE file f
 # Setting up DebugShip
 type "chmod +x path/to/your/gui.py" hit enter, this is optional if your a professional but a GUI experience is recommended
 
-type "chmod +x path/to/your/debugger.py" hit enter, if you dont do this it will be useless.
-
 type "chmod +x path/to/your/ShipFramework.sh" hit enter, the framework is required!
 
 type "pip install nicegui" if you do not have the GUI files.
