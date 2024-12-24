@@ -1,5 +1,6 @@
 ![Logo](https://raw.githubusercontent.com/electric-otter/Images/refs/heads/main/debugship.png)
 ## DebugShip
+!YOU MUST CD INTO THE DIRECTORY!
 # Can i use this in my projects without credit?
 No, you need the open source licensing according to GNU. read the LICENSE file for more info
 # Setting up DebugShip
