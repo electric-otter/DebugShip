@@ -16,3 +16,6 @@ Start the debugger with "python3 path/to/your/gui.py"
 If DebugShip doesnt open go into a python venv and type pip install nicegui,
 # What to open?
 The gui.py file, it contains what you need, like for example, functions
+# Installing
+Linux: git clone https://github.com/electric-otter/DebugShip.git
+Windows: We are working for a windows experience for DebugShip if we do plan on it.
