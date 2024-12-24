@@ -1,2 +1,2 @@
 kitty $LOCATION
-LOCATION = "~/DebugShip"
+LOCATION = "~/DebugShip/ShipFramework.sh"
