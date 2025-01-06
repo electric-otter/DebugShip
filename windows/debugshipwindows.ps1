@@ -14,9 +14,10 @@ Write-Output $z
 
 # Optionally, wait for debugger to attach or pause manually for debugging
 Wait-Debugger
-
+# Make the options for target devices or 
+$options = "$targetDevice $ForEach-Object"
 # Construct the command string
-$debugger = "debugger --target $targetDevice $options $PSBoundParameters $Args Set-PSBreakPoint"
+$debugger = "debugger --target $targetDevice $options $PSBoundParameters $Args Set-PSBreakPoint $procInfo"
 
 
 Invoke-Expression $debugger
