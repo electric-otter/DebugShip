@@ -15,10 +15,6 @@ Write-Output $z
 # Optionally, wait for debugger to attach or pause manually for debugging
 Wait-Debugger
 
-# Assume you are invoking an external debugger command targeting a device
-$targetDevice = "device_id"  # Replace with the actual target device
-$options = "--option value"  # Replace with the actual options for your debugger
-
 # Construct the command string
 $debugger = "debugger --target $targetDevice $options $PSBoundParameters $Args Set-PSBreakPoint"
 
